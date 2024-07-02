@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khuyen Ho aka Tina</h1>
 <h3 align="center">A fullstack developer with 2+ years of experience in various projects, specializing in ReactJS and NestJS.</h3>
 
-- 🔭 I’m currently working on this project [Starlento](https://demo.starlento.vn/)
+- 🔭 Learn more about me  [**here**](https://portfolio-navy-two-19.vercel.app/)
 
 - 📫 How to reach me **holambaokhuyen@gmail.com**
 
